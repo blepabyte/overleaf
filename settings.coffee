@@ -179,7 +179,7 @@ settings =
 	httpAuthUsers: httpAuthUsers
 
 	# Should javascript assets be served minified or not.
-	useMinifiedJs: true
+	useMinifiedJs: false
 
 	# Should static assets be sent with a header to tell the browser to cache
 	# them. This should be false in development where changes are being made,
