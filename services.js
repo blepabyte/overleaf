@@ -7,27 +7,27 @@ module.exports =
 }, {
 	name: "real-time",
 	repo: "https://github.com/sharelatex/real-time-sharelatex.git",
-	version: "master"
+	version: "b5d5a76555135cc827c2b3092c4cadc8cddad8bd"
 }, {
 	name: "document-updater",
 	repo: "https://github.com/sharelatex/document-updater-sharelatex.git",
-	version: "master"
+	version: "bd0c09c742b9dda779010ba068893f7f215840dd"
 }, {
 	name: "clsi",
 	repo: "https://github.com/sharelatex/clsi-sharelatex.git",
-	version: "master"
+	version: "a883084bba5491ced188db7b32e64c988ffe73ca"
 }, {
 	name: "filestore",
 	repo: "https://github.com/sharelatex/filestore-sharelatex.git",
-	version: "master"
+	version: "8e188f472ec1840f044de345cdc37970e18cdef1"
 }, {
 	name: "track-changes",
 	repo: "https://github.com/sharelatex/track-changes-sharelatex.git",
-	version: "master"
+	version: "ca492b19195e1875685a00d443b6bb12aebf2288"
 }, {
 	name: "docstore",
 	repo: "https://github.com/sharelatex/docstore-sharelatex.git",
-	version: "master"
+	version: "ccab92bb1310628f155d6ee78643955574ad913b"
 }, {
 	name: "chat",
 	repo: "https://github.com/sharelatex/chat-sharelatex.git",
